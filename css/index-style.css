@@ -1,0 +1,37 @@
+.header-bg {
+    background-image: url("../img/mountain.jpg");
+    background-attachment: fixed;
+    height: 600px;
+    background-size: cover;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-blend-mode:multiply;
+    background-color: rgba(0, 0, 0, 0.685);
+}
+
+.main-1 {
+    background-color: blanchedalmond;
+    height: 300px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.main-2 {
+    background-color: rgb(202, 58, 94);
+    height: 300px;
+}
+
+.foot {
+    height: 400px;
+    background-image: url(../img/real-python-beginner.png);
+    background-size: cover;
+    background-blend-mode:multiply;
+    background-color: rgba(0, 0, 0, 0.808);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.h3f {width: 280px;}
